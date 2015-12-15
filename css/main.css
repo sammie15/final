@@ -1,0 +1,50 @@
+body {
+    margin:0px;
+    padding:0px;
+    background-image:url(http://kikiandtea.com/wp-content/uploads/Makeup.jpg);
+    background-size:100%;
+    background-repeat:none;
+}
+
+#header {
+    background-color:#96CEB4;
+    color:#FF6F69;
+    opacity:0.8;
+}
+
+#header h1 {
+    font-family:arial;
+    p padding:20px;
+    margin:0px;
+    background-color:#96CEB4;
+    opacity:0.8;
+}
+#nav, #nav a{
+    background-color:#FFEEAD;
+    padding:10px;
+    opacity:0.8;
+}
+
+#nav a{
+    margin:0px;
+    color:#897FD8;
+    font-family:arial;
+    text-decoration:none;
+    transition:color 2s, background-color 2s;
+}
+
+#nav a:hover{
+    background-color:#897FD8;    
+    color:white;
+    transition:color 2s;
+}
+#sales{
+    background-color:#897FD8;    
+    color:white;
+    opacity:0.8;
+}
+#contact{
+    background-color:#897FD8;    
+    color:white;
+    opacity:0.8;
+}
